@@ -1,1 +1,1 @@
-# Hello it a quick revision on python.
+# Hello it a quick revision on python
