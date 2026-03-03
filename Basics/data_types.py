@@ -17,6 +17,7 @@ print(type(c))
 print(type(d))
 
 # take an input from the user and print it.
+# input() return's string
 print(input("Enter a name :- "))
 
 # arithematical operations 
